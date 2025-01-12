@@ -31,6 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemisruparel&show_icons=true&locale=en&layout=compact" alt="nemisruparel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemisruparel&show_icons=true&locale=en" alt="nemisruparel" /></p>
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=nemisruparel" alt="GitHub Streak Stats for Nemis Ruparel" />
-</p>
