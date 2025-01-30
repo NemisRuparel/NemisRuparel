@@ -31,6 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemisruparel&show_icons=true&locale=en&layout=compact" alt="nemisruparel" width="450"height="150"/></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NemisRuparel&custom_title=Contibution%20Graph&theme=dark&area=false&hide_border=false&hide_title=false" width="300"height="150"alt="activity-graph graph"  />&nbsp;&nbsp;
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nemisruparel&show_icons=true&locale=en" alt="nemisruparel"width="450"height="150"/>
-<a href="https://git.i/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nemisruparel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"alt="GitHub Streak"width="300"height="150" align="right"/></a>
+<p>&nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nemisruparel&show_icons=true&locale=en" alt="nemisruparel"width="450"height="150"/>
+<a href="https://git.i/streak-stats">
 </p>
