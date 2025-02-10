@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/NemisRuparel/NemisRuparel/7397ed30b2d6f8b5c053ba778d3c1cc32da7966b/github%20banner.1.png)
 <h1 align="center">Hi 👋, I'm Nemis Ruparel</h1>
-<h3 align="center">Student at Government Polytechnic Porbandar</h3>
+<h3 align="center">Student at Government Polytechnic Porbandar</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemisruparel&label=Profile%200views&color=0e75b6&style=flat" alt="nemisruparel" /> </p>
 
