@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nemisruparel" target="blank"><img src="https://img.shields.io/twitter/follow/nemisruparel?logo=twitter&style=for-the-badge" alt="nemisruparel" /></a> </p>
 
-- 🌱 I’m currently learning Java , PHP , JavaScript
+- 🌱 I’m currently learning Java , PHP , JavaScript...
 
 - 👨‍💻 All of my projects are available at [https://nemisruparelportfolio.vercel.app/](https://nemisruparelportfolio.vercel.app/)
 
