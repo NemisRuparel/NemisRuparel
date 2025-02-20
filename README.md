@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemisruparel&label=Profile%200views&color=0e75b6&style=flat" alt="nemisruparel" /> </p>
 <p align="left"> <a href="https://twitter.com/nemisruparel" target="blank"><img src="https://img.shields.io/twitter/follow/nemisruparel?logo=twitter&style=for-the-badge" alt="nemisruparel" /></a> </p>
 
-- 🌱 I’m currently learning Java , PHP , JavaScript...
+- 🌱 I’m currently learning Java , PHP , 3JS...
 
 - 👨‍💻 All of my projects are available at [https://nemisruparelportfolio.vercel.app/](https://nemisruparelportfolio.vercel.app/)
 
