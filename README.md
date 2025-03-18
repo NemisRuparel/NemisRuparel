@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nemisruparel07@gmail.com**
 
-- ⚡ Fun fact **I am building a chatbot called ‘Inquiro’, which will one day ask, “How do you feel today, human?” 🤖🍳**
+⚡ Fun fact: I’m building SlideSnap, A PPT maker that’ll soon say, “Forgot your slides again, human? Don’t worry, I’ve been working while you weren’t.”
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
