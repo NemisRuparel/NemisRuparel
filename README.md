@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nemis 
   Ruparel</h1>
-<h3 align="center">Student at Government Polytechnic Porbandar</h3>
+<h3 align="center">Studentat Government Polytechnic Porbandar</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemisruparel&label=Profile%200views&color=0e75b6&style=flat" alt="nemisruparel" /> </p>
 <p align="left"> <a href="https://twitter.com/nemisruparel" target="blank"><img src="https://img.shields.io/twitter/follow/nemisruparel?logo=twitter&style=for-the-badge" alt="nemisruparel" /></a> </p>
 - 🌱 I’m currently learning Java , PHP , React-Native , Angular <br> <br>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nemisruparel07@gmail.com**
 
-⚡ Fun fact: I’m building SlideSnap, A PPT maker that’ll soon say, “Forgot your slides again, human? Don’t worry, I’ve been working while you weren’t.”
+-⚡ Fun fact: I’m building SlideSnap, A PPT maker that’ll soon say, “Forgot your slides again, human? Don’t worry, I’ve been working while you weren’t.”
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
