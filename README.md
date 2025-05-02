@@ -52,6 +52,9 @@
   <a href="https://www.geeksforgeeks.org/user/nemisrupfocf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="https://www.codechef.com/users/nemisruparel" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" height="40" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </div>
+
+---
+
 ## GitHub Statistics
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=nemisruparel&show_icons=true&theme=windows&hide_border=true&bg_color=f6f8fa&title_color=0078d4&text_color=333333&icon_color=0078d4" alt="GitHub Stats" width="45%" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
@@ -61,7 +64,10 @@
 ---
 
 ## Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=NemisRuparel&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NemisRuparel&theme=github-dark&hide_border=true" />
+</p>
+
 
 ---
 
