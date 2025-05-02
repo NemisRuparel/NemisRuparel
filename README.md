@@ -65,8 +65,9 @@
 
 ## Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NemisRuparel&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=NemisRuparel&theme=github-dark&hide_border=true&timestamp=2025-05-02" />
 </p>
+
 
 
 ---
