@@ -61,9 +61,7 @@
 ---
 
 ## Contribution Streak
-<div align="center">
-  <img src="https://gh-readme-streak-stats.vercel.app/?user=NemisRuparel&theme=windows&hide_border=true&background=f6f8fa&stroke=0078d4&ring=0078d4&fire=0078d4&currStreakNum=333333&sideNums=333333&currStreakLabel=0078d4&sideLabels=0078d4&dates=333333" alt="GitHub Streak" width="60%" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=NemisRuparel&theme=github-dark&hide_border=true)
 
 ---
 
