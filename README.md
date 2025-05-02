@@ -27,7 +27,7 @@
 
 ---
 
-## Featured Project: SlideSnap
+## Featured Project: My Portfolio
 <div align="center" style="background: #ffffff; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: box-shadow 0.3s ease;" onmouseover="this.style.box-shadow='0 4px 8px rgba(0,0,0,0.15)'" onmouseout="this.style.box-shadow='0 2px 4px rgba(0,0,0,0.1)'">
   <h3>My Portfolio</h3>
   <p>A sleek, responsive, and interactive developer portfolio. Explore my work at:</p>
