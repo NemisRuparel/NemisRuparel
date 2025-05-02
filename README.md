@@ -29,8 +29,8 @@
 
 ## Featured Project: SlideSnap
 <div align="center" style="background: #ffffff; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: box-shadow 0.3s ease;" onmouseover="this.style.box-shadow='0 4px 8px rgba(0,0,0,0.15)'" onmouseout="this.style.box-shadow='0 2px 4px rgba(0,0,0,0.1)'">
-  <h3>SlideSnap</h3>
-  <p>A user-friendly tool for creating professional presentations efficiently. Explore my work at:</p>
+  <h3>My Portfolio</h3>
+  <p>A sleek, responsive, and interactive developer portfolio. Explore my work at:</p>
   <a href="https://nemisruparelportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0078d4?style=flat-square" alt="Portfolio" style="transition: opacity 0.3s ease;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'"/></a>
 </div>
 
