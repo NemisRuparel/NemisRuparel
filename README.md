@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/NemisRuparel/NemisRuparel/7397ed30b2d6f8b5c053ba778d3c1cc32da7966b/github%20banner.1.png" alt="Nemis Ruparel Banner" width="80%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
-</div>
+</div> 
 
 <br>
 
