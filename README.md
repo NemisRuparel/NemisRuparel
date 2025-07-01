@@ -18,10 +18,10 @@
 <div style="background: #f6f8fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: box-shadow 0.3s ease;" onmouseover="this.style.box-shadow='0 4px 8px rgba(0,0,0,0.15)'" onmouseout="this.style.box-shadow='0 2px 4px rgba(0,0,0,0.1)'">
   <ul style="list-style: none; padding: 0;">
     <li><strong>Education</strong>: Pursuing Computer Engineering</li>
-    <li><strong>Currently Learning</strong>: Java, PHP, React Native, Angular</li>
+    <li><strong>Currently Learning</strong>: JavaScript React Native</li>
     <li><strong>Expertise</strong>: Proficient in C and HTML</li>
     <li><strong>Contact</strong>: <a href="mailto:nemisruparel07@gmail.com" style="color: #0078d4;">nemisruparel07@gmail.com</a></li>
-    <li><strong>Project Highlight</strong>: Developing <strong>SlideSnap</strong>, an innovative presentation tool designed to streamline slide creation.</li>
+    <li><strong>Project Highlight</strong>: Developing <strong>DevTales</strong>, an Indian Heritage Narration app</li>
   </ul>
 </div>
 
