@@ -18,7 +18,7 @@
 <div style="background: #f6f8fa; padding: 20px; border-radius: 8px;">
   <ul>
     <li><strong>Education</strong>: Pursuing Computer Engineering</li>
-    <li><strong>Currently Learning</strong>: JavaScript React Native</li>
+    <li><strong>Currently Learning</strong>: JavaScript</li>
     <li><strong>Expertise</strong>: Proficient in C and HTML</li>
     <li><strong>Contact</strong>: <a href="mailto:nemisruparel07@gmail.com">nemisruparel07@gmail.com</a></li>
     <li><strong>Project Highlight</strong>: Developing <strong>DevTales</strong>, an Indian Heritage Narration app</li>
