@@ -21,7 +21,6 @@
     <li><strong>Currently Learning</strong>: JavaScript</li>
     <li><strong>Expertise</strong>: Proficient in C and HTML</li>
     <li><strong>Contact</strong>: <a href="mailto:nemisruparel07@gmail.com">nemisruparel07@gmail.com</a></li>
-    : Developing <strong>DevTales</strong>, an Indian Heritage Narration app</li>
   </ul>
 </div>
 
