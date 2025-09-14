@@ -86,9 +86,8 @@
 <details>
   <summary>Click to know me more!</summary>
   <ul>
-    <li>I code best at night!</li>
+    <li>Daily dose of git commit</li>
     <li>I love chess and carrom during breaks</li>
-    <li>I often code with lo-fi or instrumental music</li>
   </ul>
 </details>
 
