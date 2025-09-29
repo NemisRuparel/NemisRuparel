@@ -21,6 +21,7 @@
     <li><strong>Currently Learning</strong>: JavaScript</li>
     <li><strong>Expertise</strong>: Proficient in C and HTML</li>
     <li><strong>Contact</strong>: <a href="mailto:nemisruparel07@gmail.com">nemisruparel07@gmail.com</a></li>
+    <li>Currently making <strong>"Skillfinity"</strong> language learning app in android with java</li>
   </ul>
 </div>
 
