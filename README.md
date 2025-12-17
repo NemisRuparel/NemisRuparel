@@ -87,7 +87,6 @@
 <details>
   <summary>Click to know me more!</summary>
   <ul>
-    <li>Daily dose of git commit</li>
     <li>I love chess and carrom during breaks</li>
   </ul>
 </details>
