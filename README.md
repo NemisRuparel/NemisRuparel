@@ -48,9 +48,10 @@ I'm currently following a structured roadmap toward becoming a Machine Learning 
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Python · Java · C · SQL |
-| **Machine Learning** | NumPy · Pandas · Scikit-Learn · Matplotlib · Jupyter |
-| **Currently Learning** | FastAPI · Docker · MLflow · DVC · GitHub Actions |
+| **Languages** | Python · JavaScript · Java · C · C++ · SQL · PHP · HTML · CSS |
+| **Frameworks** | Tailwind ·  Node.js · Angular · React · ReactNative |
+| **Machine Learning** | NumPy · Pandas · Scikit-Learn · Matplotlib · Jupyter · Kaggle |
+| **Currently Learning** | FastAPI · Docker · MLflow · NLP · GitHub Actions |
 | **Cloud & DevOps** | AWS · Kubernetes |
 | **Tools** | Git · GitHub · Linux · VS Code |
 | **Databases** | MySQL · Oracle · MongoDB |  
