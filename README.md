@@ -88,7 +88,7 @@ https://nemisruparel.vercel.app
 **LinkedIn**  
 https://linkedin.com/in/nemis-ruparel
 
-**LinkedIn**  
+**Gmail**  
 nemisruparel07@gmail.com
 
 ---
