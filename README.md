@@ -82,14 +82,11 @@ Python • Pandas • NumPy • Scikit-Learn • Jupyter Notebook
 
 ## 🌐 Connect
 
-**Portfolio**  
-https://nemisruparel.vercel.app
+**Portfolio:** https://nemisruparel.vercel.app
 
-**LinkedIn**  
-https://linkedin.com/in/nemis-ruparel
+**LinkedIn:** https://linkedin.com/in/nemis-ruparel
 
-**Gmail**  
-nemisruparel07@gmail.com
+**Gmail:** nemisruparel07@gmail.com
 
 ---
 
